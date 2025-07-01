@@ -32,7 +32,7 @@ Example:
 # Presentation
 
 The Data Analyst presentation PDF is available here:  
-[Download PDF](https://drive.google.com/file/d/ABC12345/view?usp=sharing)
+[Download PDF](https://drive.google.com/file/d/1cS2LjYCriSyBPk34LyKpBbdVBCWpZjiT/view?usp=drive_link)
 
 
 ## 👤 Author
