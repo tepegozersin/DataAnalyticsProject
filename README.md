@@ -29,8 +29,11 @@ You can find screenshots of dashboards and key charts in the `/images` folder.
 Example:  
 ![Dashboard Preview](images/dashboard1.png)
 
-## 🗂️ Presentation
-The full presentation is available in the [`/Presentation`](./Presentation/DataAnalystPresentation.pdf) folder.
+# Presentation
+
+The Data Analyst presentation PDF is available here:  
+[Download PDF](https://drive.google.com/file/d/ABC12345/view?usp=sharing)
+
 
 ## 👤 Author
 **Ersin Tepegoz**  
