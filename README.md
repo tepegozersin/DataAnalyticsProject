@@ -37,5 +37,4 @@ The Data Analyst presentation PDF is available here:
 
 ## 👤 Author
 **Ersin Tepegoz**  
-📍 Antalya, Turkey   
 📫 [tepegozersin@gmail.com](mailto:tepegozersin@gmail.com)
